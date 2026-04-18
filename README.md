@@ -1,2 +1,2 @@
 # gorillakit
-Roblox backend framework. Powerfull, easy and reliable.
+Add-on for **Accel**. Powerfull, easy and reliable.
